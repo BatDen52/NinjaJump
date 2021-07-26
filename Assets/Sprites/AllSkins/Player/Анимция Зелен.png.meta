@@ -1,0 +1,1663 @@
+fileFormatVersion: 2
+guid: 7a9c7ce95a9943b49a1ceca42783f643
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7092249163776996625
+    second: Pres F_0
+  - first:
+      213: -721412952997228110
+    second: Pres F_1
+  - first:
+      213: 4321989304924480457
+    second: Pres F_2
+  - first:
+      213: 4055860374681910201
+    second: Pres F_3
+  - first:
+      213: 3104868523036462593
+    second: Pres F_4
+  - first:
+      213: -234200997669692974
+    second: Pres F_5
+  - first:
+      213: -7937481322076894608
+    second: Pres F_6
+  - first:
+      213: -935966780673554233
+    second: Pres F_7
+  - first:
+      213: 2430184964241949884
+    second: Pres F_8
+  - first:
+      213: -6232783826120692228
+    second: Pres F_9
+  - first:
+      213: -1586452951617508252
+    second: Pres F_10
+  - first:
+      213: 446031517324854653
+    second: Pres F_11
+  - first:
+      213: -6539608397068231965
+    second: Pres F_12
+  - first:
+      213: 631444814459771825
+    second: Pres F_13
+  - first:
+      213: -8002211539807128716
+    second: Pres F_14
+  - first:
+      213: 3507805424057066330
+    second: Pres F_15
+  - first:
+      213: -5915343736021055388
+    second: Pres F_16
+  - first:
+      213: -140966240191638213
+    second: Pres F_17
+  - first:
+      213: -4107943926405856922
+    second: Pres F_18
+  - first:
+      213: 2371365087204409774
+    second: Pres F_19
+  - first:
+      213: -3191038860677693858
+    second: Pres F_20
+  - first:
+      213: 5162405938704541787
+    second: Pres F_21
+  - first:
+      213: 6644967373489428798
+    second: Pres F_22
+  - first:
+      213: -2621826234109598246
+    second: Pres F_23
+  - first:
+      213: 4589360634079382478
+    second: Pres F_24
+  - first:
+      213: -5490687143465232147
+    second: Pres F_25
+  - first:
+      213: 7419205892075959702
+    second: Pres F_26
+  - first:
+      213: -3593255865990341327
+    second: Pres F_27
+  - first:
+      213: 8546905024969244421
+    second: Pres F_28
+  - first:
+      213: 329874752174496997
+    second: Pres F_29
+  - first:
+      213: 1845637787462723212
+    second: Pres F_30
+  - first:
+      213: 514114510444834569
+    second: Pres F_31
+  - first:
+      213: 3884942340181273150
+    second: Pres F_32
+  - first:
+      213: -5854980792935961570
+    second: Pres F_33
+  - first:
+      213: -5222140328659926847
+    second: Pres F_34
+  - first:
+      213: 4041621889636444419
+    second: Pres F_35
+  - first:
+      213: 4992466673418736671
+    second: Pres F_36
+  - first:
+      213: -5533983046274449275
+    second: Pres F_37
+  - first:
+      213: -1896974669497227084
+    second: Pres F_38
+  - first:
+      213: 8309823463801393978
+    second: Pres F_39
+  - first:
+      213: -6820213644954960417
+    second: Pres F_40
+  - first:
+      213: -4010673120067327095
+    second: Pres F_41
+  - first:
+      213: -321574302783124239
+    second: Pres F_42
+  - first:
+      213: -3935599026611903206
+    second: Pres F_43
+  - first:
+      213: 1994713097352171184
+    second: Pres F_44
+  - first:
+      213: -7478071703049175531
+    second: Pres F_45
+  - first:
+      213: 1839999651294572765
+    second: Pres F_46
+  - first:
+      213: -8252091707714563643
+    second: Pres F_47
+  - first:
+      213: -3722241843801594413
+    second: Pres F_48
+  - first:
+      213: 5594826407222399915
+    second: Pres F_49
+  - first:
+      213: -2239907493177302830
+    second: Pres F_50
+  - first:
+      213: -6586960794749481315
+    second: Pres F_51
+  - first:
+      213: 8861152367226267246
+    second: Pres F_52
+  - first:
+      213: -2520767106987276078
+    second: Pres F_53
+  - first:
+      213: 6326252867781127951
+    second: Pres F_54
+  - first:
+      213: 3342577435015397871
+    second: Pres F_55
+  - first:
+      213: 6583361458563871691
+    second: Pres F_56
+  - first:
+      213: -6874966242907380408
+    second: Pres F_57
+  - first:
+      213: 2528667104474675600
+    second: Pres F_58
+  - first:
+      213: -5385154662444691232
+    second: Pres F_59
+  - first:
+      213: -6052792805483284139
+    second: Pres F_60
+  - first:
+      213: -594308943232032060
+    second: Pres F_61
+  - first:
+      213: 7839808464785192138
+    second: Pres F_62
+  - first:
+      213: 3704054089531093577
+    second: Pres F_63
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pres F_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2982
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd000f65bffd5f43a8e7ee3f2b3d925
+      internalID: 7092249163776996625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_1
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 2982
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a3a2611ad292f48998ed9da8ce1547
+      internalID: -721412952997228110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_2
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 2982
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a11c708b26e85489961497662249cc
+      internalID: 4321989304924480457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_3
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 2982
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdcbaed50ac5514ba530d4d1bdd266a
+      internalID: 4055860374681910201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_4
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 2982
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629ebe24ad4566944b3de123e70a5d60
+      internalID: 3104868523036462593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_5
+      rect:
+        serializedVersion: 2
+        x: 2755
+        y: 2982
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4194fbc2f0d2ce044b7d877495bd0070
+      internalID: -234200997669692974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_6
+      rect:
+        serializedVersion: 2
+        x: 3306
+        y: 2982
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b11815956806548b531edd0745e05c
+      internalID: -7937481322076894608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_7
+      rect:
+        serializedVersion: 2
+        x: 3857
+        y: 2982
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ad1a013d09e944cbb7c094ad227756
+      internalID: -935966780673554233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2556
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958466c3a49181645ba6ab6a1293b116
+      internalID: 2430184964241949884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_9
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 2556
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80196709cbac66a4bb1941e0520b4d2f
+      internalID: -6232783826120692228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_10
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 2556
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c01cf082711664f9cb567d1cb0a2cd
+      internalID: -1586452951617508252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_11
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 2556
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d1f26bebb225c48b70cd7b81455b2d
+      internalID: 446031517324854653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_12
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 2556
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffa4fe3e2a454e4985b9af831c167ef
+      internalID: -6539608397068231965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_13
+      rect:
+        serializedVersion: 2
+        x: 2755
+        y: 2556
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6737887a5f03bdc43a79b53e7b144e26
+      internalID: 631444814459771825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_14
+      rect:
+        serializedVersion: 2
+        x: 3306
+        y: 2556
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb3b978ce69d824bb20728f32c4c11f
+      internalID: -8002211539807128716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_15
+      rect:
+        serializedVersion: 2
+        x: 3857
+        y: 2556
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3d739c4080f5744955e6d28541aefb
+      internalID: 3507805424057066330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2130
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a9a806fcf4dcd429affeb09f093396
+      internalID: -5915343736021055388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_17
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 2130
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a02525d871bec4ab7e0a124f9cab7f
+      internalID: -140966240191638213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_18
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 2130
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d679d57a6fb9782448258ecae143ba1e
+      internalID: -4107943926405856922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_19
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 2130
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ad6655a940c3c4aaf72e4926862a5a
+      internalID: 2371365087204409774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_20
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 2130
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3c631a8368f8e41ac4ab97539aec7a
+      internalID: -3191038860677693858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_21
+      rect:
+        serializedVersion: 2
+        x: 2755
+        y: 2130
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6803fd307dbc6874cb6a7c06b4ecd8ec
+      internalID: 5162405938704541787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_22
+      rect:
+        serializedVersion: 2
+        x: 3306
+        y: 2130
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6994f434189ade844ab08306a5eb9f48
+      internalID: 6644967373489428798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_23
+      rect:
+        serializedVersion: 2
+        x: 3857
+        y: 2130
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d2755cd87f7f6418c6af91f6c89451
+      internalID: -2621826234109598246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1704
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc04fdca7d48c44499a91ed2cced1a5
+      internalID: 4589360634079382478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_25
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1704
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d11f7a27e7f9049a058981d53b2c7a
+      internalID: -5490687143465232147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_26
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1704
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073bdc12054f28e4f92cd039b7578af4
+      internalID: 7419205892075959702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_27
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 1704
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8946e84750ae5f48b732baec44bcc40
+      internalID: -3593255865990341327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_28
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 1704
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136d49181fb92054cab92b127a7fad91
+      internalID: 8546905024969244421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_29
+      rect:
+        serializedVersion: 2
+        x: 2755
+        y: 1704
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4809a8dc32b43f54795a5338075d3a0c
+      internalID: 329874752174496997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_30
+      rect:
+        serializedVersion: 2
+        x: 3306
+        y: 1704
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475e49ba17c773747b24663ea6e56860
+      internalID: 1845637787462723212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_31
+      rect:
+        serializedVersion: 2
+        x: 3857
+        y: 1704
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70abba3a427bf1c45b5e7725258f0658
+      internalID: 514114510444834569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1278
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f88bf01d6caa6442b6458013b27da8a
+      internalID: 3884942340181273150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_33
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1278
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6612e0b922b0c534b88699a189c7eeaf
+      internalID: -5854980792935961570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_34
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1278
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9ec6203b7b31d4b94455be4abd127b
+      internalID: -5222140328659926847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_35
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 1278
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f91d180d457a94c8ce1c6127469fa4
+      internalID: 4041621889636444419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_36
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 1278
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e8aee558577e149b184d2db64fbb21
+      internalID: 4992466673418736671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_37
+      rect:
+        serializedVersion: 2
+        x: 2755
+        y: 1278
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5625307331916674cbf203da320165d5
+      internalID: -5533983046274449275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_38
+      rect:
+        serializedVersion: 2
+        x: 3306
+        y: 1278
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d569c70fbcec5409b4a6d68b8a8ec4
+      internalID: -1896974669497227084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_39
+      rect:
+        serializedVersion: 2
+        x: 3857
+        y: 1278
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab014498438d46246947303789cf8fa2
+      internalID: 8309823463801393978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 852
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6682d7719bfac8f47aaa812f78476a2f
+      internalID: -6820213644954960417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_41
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 852
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c288ee7d15c12c4418868237f9ccbd80
+      internalID: -4010673120067327095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_42
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 852
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0405b3a0fc32d6745a341c9aab7422b5
+      internalID: -321574302783124239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_43
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 852
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec387a11d1d6d794fb85a8a604f88a38
+      internalID: -3935599026611903206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_44
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 852
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7580f5ee6700fc419533433ae2ec05b
+      internalID: 1994713097352171184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_45
+      rect:
+        serializedVersion: 2
+        x: 2755
+        y: 852
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d929d2b2e947049866cf14590b3186
+      internalID: -7478071703049175531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_46
+      rect:
+        serializedVersion: 2
+        x: 3306
+        y: 852
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559d4f61cb740684c8980fb4065725fc
+      internalID: 1839999651294572765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_47
+      rect:
+        serializedVersion: 2
+        x: 3857
+        y: 852
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95a5360528ad534e9b0b6d77656f238
+      internalID: -8252091707714563643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 426
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1589f13aa72aafd44ab19b309ae66344
+      internalID: -3722241843801594413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_49
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 426
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9589a16e11c5e4aa69c80fd4630fc4
+      internalID: 5594826407222399915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_50
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 426
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b461e97cccc4da4ba7b7cd2c5ac8c11
+      internalID: -2239907493177302830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_51
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 426
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f20f9db0dd4e640b30fb86896e34a1
+      internalID: -6586960794749481315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_52
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 426
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0470723b00d8a504781ca7ba51d043b0
+      internalID: 8861152367226267246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_53
+      rect:
+        serializedVersion: 2
+        x: 2755
+        y: 426
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cd31d1a632eb649aa812909b271fa0
+      internalID: -2520767106987276078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_54
+      rect:
+        serializedVersion: 2
+        x: 3306
+        y: 426
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ba81fa1d29af848bad7956545f039e
+      internalID: 6326252867781127951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_55
+      rect:
+        serializedVersion: 2
+        x: 3857
+        y: 426
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689046ec1ffa44041b6c2759d9448f04
+      internalID: 3342577435015397871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724782a7cb1b41840987fb4acb906485
+      internalID: 6583361458563871691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_57
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 0
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017472d91e7b4284ca99fcc4759cfb14
+      internalID: -6874966242907380408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_58
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 0
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09332ea5bbdba9c4e95c29ef5518ec69
+      internalID: 2528667104474675600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_59
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 0
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48336ae3557a20245a5d2c4b93b355de
+      internalID: -5385154662444691232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_60
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 0
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea4252ff720550449c6ae8397687f21
+      internalID: -6052792805483284139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_61
+      rect:
+        serializedVersion: 2
+        x: 2755
+        y: 0
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4a4f96dabec1f46a43c6cf614dcbb9
+      internalID: -594308943232032060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_62
+      rect:
+        serializedVersion: 2
+        x: 3306
+        y: 0
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb62ea026b30b8449a27059b8f644260
+      internalID: 7839808464785192138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pres F_63
+      rect:
+        serializedVersion: 2
+        x: 3857
+        y: 0
+        width: 551
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f686e25d3b69814d8dbcf623ef07c41
+      internalID: 3704054089531093577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
